@@ -9,7 +9,7 @@
 
 ## ③ アプリのデプロイ URL
 
-- https://tedped.github.io/kadai05-api/
+- https://ahmad-no1.sakura.ne.jp/kadai06_php01/post.php
 
 ## ④ アプリのログイン用 ID または Password（ある場合）
 
